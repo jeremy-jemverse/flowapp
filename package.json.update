@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@udecode/plate-alignment": "^24.5.2",
+    "@udecode/plate-basic-elements": "^24.5.2",
+    "@udecode/plate-basic-marks": "^24.5.2",
+    "@udecode/plate-common": "^24.5.2",
+    "@udecode/plate-indent": "^24.5.2",
+    "@udecode/plate-line-height": "^24.5.2",
+    "@udecode/plate-link": "^24.5.2",
+    "@udecode/plate-list": "^24.5.2",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "slate": "^0.101.5",
+    "slate-history": "^0.100.0",
+    "slate-react": "^0.101.5"
+  }
+}
